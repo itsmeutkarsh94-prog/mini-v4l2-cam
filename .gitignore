@@ -1,9 +1,11 @@
-# Prerequisites
+#Prerequisites
 *.d
 
 # Object files
 *.o
 *.ko
+*.mod
+*.mod.c
 *.obj
 *.elf
 
@@ -46,8 +48,8 @@
 *.mod*
 *.cmd
 .tmp_versions/
-modules.order
 Module.symvers
+modules.order
 Mkfile.old
 dkms.conf
 
