@@ -4,6 +4,8 @@
 # Object files
 *.o
 *.ko
+*.mod
+*.mod.c
 *.obj
 *.elf
 
